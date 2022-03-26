@@ -1,0 +1,13 @@
+{
+    "name": "ionzile/super",
+    "description": "ions framework admin panel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Hamdi"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
