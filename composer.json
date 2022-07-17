@@ -8,6 +8,6 @@
             "name": "Ahmed Hamdi"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
